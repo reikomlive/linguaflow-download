@@ -1,6 +1,6 @@
 ## 📥 Download Linguaflow (Android)
 
-Latest version: v1.1.2 (Build 22)  
+Latest version: v1.1.7 (Build 37)  
 Architecture: arm64-v8a
 
 🔗 **Direct APK download:**  
